@@ -1,0 +1,22 @@
+GIMP Palette
+Name: Pixel Pals 16
+Columns: 8
+# Sixteen colours, four ramps, drawn for 16x16 sprites that still read at 2x.
+# Ramps: neutral (void..flash), warm (brick..bubblegum), green (moss..pine),
+# blue (denim..sky). Import in Aseprite with Palette > Load Palette.
+ 16  20  31	void
+ 38  43  68	ink
+ 67  62  99	bruise
+106  96 130	ash
+158 148 168	dust
+226 217 203	bone
+250 249 244	flash
+176  60  66	brick
+224 111  62	ember
+246 187  86	honey
+236 118 148	bubblegum
+140 189  86	moss
+ 70 143  96	fern
+ 38  95  95	pine
+ 62 118 172	denim
+112 182 216	sky
